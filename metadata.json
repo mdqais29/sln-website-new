@@ -1,0 +1,6 @@
+{
+  "name": "SLN Transportation LLC",
+  "description": "Clean, modern, and reliable school transportation services in Des Plaines, IL. School van routes, driver and monitor employment, and student safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
