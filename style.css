@@ -1360,8 +1360,8 @@ footer:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(
 @media (max-width: 768px) {
   .site-logo-img,
   header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1) {
-    height: 65px;
-    max-width: 290px;
+    height: 52px;
+    max-width: 230px;
   }
 
   .header-actions {
